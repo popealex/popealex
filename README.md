@@ -3,7 +3,7 @@
 I'm a Software Developer from [Winchester, United Kingdom](https://en.wikipedia.org/wiki/Winchester). My stack mostly revolves around Python and databases, and I also work heavily with containers and cloud environments such as Azure and AWS. Please do feel free to reach out, or browse my portion of GitHub further.
 
 # I am...
-🚀 Software Developer at [L3Harris](https://www.l3harris.com/all-capabilities/flight-data-analytics), Civil Aviation Division
+🚀 A Software Developer at [L3Harris](https://www.l3harris.com/all-capabilities/flight-data-analytics), Civil Aviation Division
 
 🌟 Working with [Python](https://www.python.org/), [Postgres](https://www.postgresql.org/), [Shell](https://www.gnu.org/software/bash/) and [AWS](https://aws.amazon.com/)
 
